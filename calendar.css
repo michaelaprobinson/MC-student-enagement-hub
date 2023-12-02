@@ -1,0 +1,36 @@
+@import url("style.css");
+body{
+  align-items: center;
+  text-align: center;
+  background: linear-gradient(to bottom, lightblue, darkblue);
+}
+#event-calendar h1{
+  text-align: center;
+}
+h1{
+  color:yellow;
+  font-family:'Sora' sans-serif;
+  padding: 10px;
+}
+h2{
+  color:yellow;
+  font-family:'Sora' sans-serif;
+}
+a:link{
+  color:#551a8b;
+  /* color:blanchedalmond; */
+  /* align-items: center; */
+  text-decoration:none;
+}
+a:visited{
+  color:darkblue;
+  /* color:#0077cc; */
+  /* align-items: center; */
+  text-decoration: underline;
+}
+a:hover{
+  color:#0077cc;
+}
+a:active{
+  color:black;
+}
